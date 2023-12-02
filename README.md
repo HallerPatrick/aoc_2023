@@ -6,6 +6,4 @@ Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.
 
 Using this [Template](https://github.com/fspoettel/advent-of-code-rust)
 
-Solved:
-- [ x ] Day 1
-- [ x ] Day 2
+<!--- advent_readme_stars table --->
